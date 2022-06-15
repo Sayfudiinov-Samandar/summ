@@ -232,3 +232,6 @@ body{
     letter-spacing: 1.39286px;
     color: #fff;
 }
+.box-in-ul-list{
+    padding: 0;
+}
